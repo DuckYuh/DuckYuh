@@ -74,6 +74,6 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
 ### Tools
 <p align="left">
   <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original-wordmark.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
