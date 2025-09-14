@@ -3,6 +3,7 @@
 ### About me
 I’m a student passionate about **web development** and **game development**.  
 I enjoy building websites with modern technologies and creating interactive games that bring ideas to life.
+I’m excited to keep growing as a developer and contribute to meaningful projects.  
 
 ### Education
 - 💻 Bachelor in Computer Science @ Ho Chi Minh City University of Technology - HCMUT-VNU
@@ -48,8 +49,8 @@ I enjoy building websites with modern technologies and creating interactive game
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </a>
-<a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
 ### Game Engines
