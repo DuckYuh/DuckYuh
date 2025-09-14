@@ -1,8 +1,18 @@
-### Hi there 👋, I'm Nguyen Huynh Duc Huy
+# Hi there 👋, I'm Nguyen Huynh Duc Huy
+
+### About me
+
+
+### Education
 - 💻 Computer Science @ HCMUT
+
+### Certificates
+- 📚 Toeic: 945/990
+
+### Contact
 - 📫 Contact: huynguyen531pro@gmail.com
 
-### 🛠 Skills
-![C/C++](https://img.shields.io/badge/-C/C++-333?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+### Programming Languages
+<a href="https://isocpp.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
