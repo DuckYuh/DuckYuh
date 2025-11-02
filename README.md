@@ -26,6 +26,7 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
 ### Frontend Development
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
@@ -47,6 +48,7 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>  
 </p>
+
 ### Backend Development
 <p align="left">
   <a href="https://nodejs.org/">
@@ -56,6 +58,7 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
+
 ### Database
 <p align="left">
   <a href="https://www.mongodb.com/">
@@ -65,6 +68,7 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+
 ### Game Engines
 <p align="left">
   <a href="https://godotengine.org/">
@@ -74,6 +78,7 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>  
 </p>
+
 ### Tools
 <p align="left">
   <a href="https://www.figma.com/">
