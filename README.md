@@ -79,6 +79,19 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
   </a>  
 </p>
 
+### Game Frameworks & Libaries
+<p align="left">
+  <a href="https://www.pygame.org/news" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pygame/pygame-icon.svg" alt="Pygame" width="40" height="40"/>
+  </a>
+  <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/libsdl/libsdl-icon.svg" alt="SDL2" width="40" height="40"/>
+  </a>
+  <a href="https://www.cocos.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/cocos2d/cocos2d-x/master/docs/static/logo.png" alt="Cocos2d-x" width="40" height="40"/>
+  </a>
+</p>
+
 ### Tools
 <p align="left">
   <a href="https://www.figma.com/">
