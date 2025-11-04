@@ -82,7 +82,7 @@ I’m excited to keep growing as a developer and contribute to meaningful projec
 ### Game Frameworks & Libaries
 <p align="left">
   <a href="https://www.pygame.org/news" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/44/1/pygame-logo-png_seeklogo-442059.png" alt="Pygame" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" alt="Pygame" width="40" height="40"/>
   </a>
   <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/png-shadow-512/Simple-DirectMedia-Layer-%28SDL%29.png" alt="SDL2" width="40" height="40"/>
