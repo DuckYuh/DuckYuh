@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nguyen Huynh Duc Huy
 
 ### About me
-I’m a student passionate about **web development** and **game development**.  
+I’m a student passionate about **Web Development** and **Game Development**.  
 I enjoy building websites with modern technologies and creating interactive games that bring ideas to life.
 I’m excited to keep growing as a developer and contribute to meaningful projects.  
 
